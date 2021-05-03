@@ -1,7 +1,8 @@
 # To-Do-List
-> Given a RGB code, guess the colour from a certain choices.
+> Creates an editable todo list.
 
 ## General info
+The app starts with three defualt todo tasks, which can be removed. We can add todos by typing in Add New ToDo. When we hover over a todo, a delete icon appears by clicking on which, the todo gets deleted.
 
 
 ## Technologies
